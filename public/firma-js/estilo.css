@@ -1,0 +1,224 @@
+#canvas {
+    border: 1px solid black;
+    width: 60%;
+}
+
+.contenedor {
+    border: 2px solid black;
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 10px;
+    background-color: #f1f1f1;
+
+}
+footer {
+    width: auto;
+    padding: 30px;
+}
+
+header {
+    padding: 30px;
+    width: auto;
+}
+
+body {
+    background-image: url("imagenes/landscape-voyage-voyageur-travel-traveler-explorer-754329-wallhere.com.jpg");
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.contrato {border: 1PX rebeccapurple;
+    width: 50%;
+    height: 250px;
+ 
+}
+.contrato h1 {
+    text-align: left;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contrato iframe{
+    width: 100%;
+    height: 200px;
+}
+
+.tarjeta img {
+    margin-top: 20px;
+    width: 70%;
+    height: 70%;
+
+}
+
+img.checksito {
+    width: 20px;
+
+}
+
+h1.tarjeta {
+    display: block;
+}
+
+p.beneficios {
+
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 0%;
+    padding: 0px;
+    font-size: 12px;
+
+}
+
+.detalleb {
+    margin-top: 0px;
+    display: flex;
+}
+
+
+.element-detalleb p {
+    font-size: 10px;
+    margin: 0px;
+}
+
+.element-detalleb img {
+
+    width: 30px;
+}
+
+.element-detalleb {
+    
+    margin: auto;
+    width: 25%;
+}
+
+.botones {
+    width: 20%;
+margin-top: 50px;
+}
+
+.botones button{
+    width: 150px;
+    
+}
+.firma-canvas{
+    width: 70%;
+}
+
+.firma-canvas p{
+    font-size: 20px;
+    
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.firma{
+    display: flex;
+}
+
+
+.tarjeta {
+    display: flex;
+    width: 50%;
+    height: 250px;
+}
+.resumen h1 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding: 0px;
+margin: 0px;
+}
+.resumen p{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 0px;
+    font-size: 15px;
+
+}
+.detalle-resumen{
+    display: flex;
+}
+.detalle-resumen p{
+    width: 50%;
+}
+.detalle-resumen div{
+    margin: 0px;
+    width: 50%;
+}
+p.puntorojo{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 0px;
+    font-size: 12px;
+    color: blue;
+    padding: 0px;
+}
+
+.tarjeta h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 25px;
+
+}
+
+.flex-container {
+    display: flex;
+}
+
+.footer{
+    margin-top: 20px;
+}
+
+.flex-container>div {
+    margin: 5px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+.direccional{
+    margin: 0px;
+    font-size: 15px;
+    
+    font-family:sans-serif;
+}
+.resumen {
+    width: 30%;
+    height: 220px;
+}
+
+.bloque {
+    width: 30%;
+    height: 220px;
+    
+}
+.acepte {
+    font-size: 20px;
+    
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.paso {
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+.firma {
+    width: 60%;
+    height: 200px;
+}
+
+.firma p {
+    margin: 0;
+    font-size: 20px;
+}
+
+p.format{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    margin: 0px;
+    margin-left: 15px;
+    padding: 0px;
+}
